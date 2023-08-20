@@ -53,6 +53,7 @@ class LoginRequest extends FormRequest
     }
 
 
+
     /**
      * Ensure the login request is not rate limited.
      *
